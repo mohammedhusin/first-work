@@ -19,12 +19,14 @@ background: 1px blue ;
 position: relative;
 bottom: 1px;
 right: 0px;
+border: 03px solid black;
 background: 10px green ;
 }
 .y {
 position: relative;
 bottom: 1px;
 right: 0px;
+border: 03px solid black;
 background: 10px yellow ;
 }
 h1 {
