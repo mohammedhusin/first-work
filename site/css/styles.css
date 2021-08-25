@@ -8,11 +8,12 @@ margin: 5px;
 
 }
 .b {
-border: 03px solid black;
-background: 1px blue ;
 position: relative;
 bottom: 1px;
 right: 0px;
+border: 03px solid black;
+background: 1px blue ;
+
 }
 .g {
 position: relative;
