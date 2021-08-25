@@ -11,6 +11,7 @@ section > div {
 position: relative;
 bottom: 1px;
 right: 13px;
+border: 03px solid black;
 background: 10px blue ;
 }
 .g {
