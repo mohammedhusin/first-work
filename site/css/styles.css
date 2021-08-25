@@ -18,13 +18,13 @@ background: 1px blue ;
 .g {
 position: relative;
 bottom: 1px;
-right: 13px;
+right: 0px;
 background: 10px green ;
 }
 .y {
 position: relative;
 bottom: 1px;
-right: 13px;
+right: 0px;
 background: 10px yellow ;
 }
 h1 {
