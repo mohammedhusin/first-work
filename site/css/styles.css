@@ -10,7 +10,7 @@ section > div {
 .b {
 position: relative;
 bottom: 1px;
-right: 10px;
+right: 5px;
 border: 03px solid black;
 background: 1px blue ;
 }
