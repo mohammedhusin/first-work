@@ -8,22 +8,37 @@ section > div {
 
 }
 .b {
-position: relative;
-bottom: 1px;
-right: 1px;
 background: 10px blue ;
+ position: absolute;
+ top: 0;
+ right: 0;
+ font-weight: bold;
+ height: 35px;
+ width: 120px;
+ padding: 10px;
+ text-align: center;
 }
 .g {
-position: relative;
-bottom: 1px;
-right: 1px;
-background: 10px green ;
+ position: absolute;
+top: 0;
+right: 0;
+font-weight: bold;
+height: 35px;
+width: 120px;
+padding: 10px;
+text-align: center;
+
 }
 .y {
-position: relative;
-bottom: 1px;
-right: 1px;
 background: 10px yellow ;
+ position: absolute;
+ top: 0;
+ right: 0;
+ font-weight: bold;
+ height: 35px;
+ width: 120px;
+ padding: 10px;
+ text-align: center;
 }
 @media (min-width: 990px){
     .col-lg-4{
