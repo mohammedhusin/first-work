@@ -19,7 +19,8 @@ background: 10px blue ;
  text-align: center;
 }
 .g {
- position: absolute;
+background: 10px green ;
+position: absolute;
 top: 0;
 right: 0;
 font-weight: bold;
