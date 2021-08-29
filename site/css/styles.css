@@ -13,8 +13,8 @@ background: 10px blue ;
  top: 0;
  right: 0;
  font-weight: bold;
- height: 35px;
- width: 120px;
+ height: 25px;
+ width: 100px;
  padding: 10px;
  text-align: center;
 }
@@ -24,8 +24,8 @@ position: absolute;
 top: 0;
 right: 0;
 font-weight: bold;
-height: 35px;
-width: 120px;
+height: 25px;
+width: 100px;
 padding: 10px;
 text-align: center;
 
@@ -36,8 +36,8 @@ background: 10px yellow ;
  top: 0;
  right: 0;
  font-weight: bold;
- height: 35px;
- width: 120px;
+ height: 25px;
+ width: 100px;
  padding: 10px;
  text-align: center;
 }
