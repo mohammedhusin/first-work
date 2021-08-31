@@ -6,11 +6,11 @@
 .navbar{
 
 border: none;
-background-color: yellow;
+background-color: red;
 color: #61122F;
 }
 body{
-	background-color: blue;
+	background-color: green;
 	color: white;
 }
 .glyphicon{
@@ -25,7 +25,7 @@ body{
 }
 .container
 {
-	background-color: green;
+	background-color: grey;
 }
 .text-center{
 	font-size: 30px;
